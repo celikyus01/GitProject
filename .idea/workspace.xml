@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/LogCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/LogCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/Logout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Logout.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +28,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Login">
     <configuration name="LogCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tests.LogCall" />
       <module name="GitProject" />
@@ -46,8 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Login" />
+      <module name="GitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Login" />
         <item itemvalue="Application.LogCall" />
       </list>
     </recent_temporary>
@@ -65,7 +77,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="162" y="174" width="1240" height="700" key="DiffContextDialog" timestamp="1588776995995">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="162" y="174" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1588776995995" />
     <state width="1440" height="252" key="GridCell.Tab.0.bottom" timestamp="1588776311614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

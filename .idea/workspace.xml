@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tests/Logout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/LogCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/LogCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/Logout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Logout.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,5 +64,23 @@
       <updated>1588772374421</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom" timestamp="1588776311614">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588776311614" />
+    <state width="1440" height="252" key="GridCell.Tab.0.center" timestamp="1588776311611">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588776311611" />
+    <state width="1440" height="252" key="GridCell.Tab.0.left" timestamp="1588776311609">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588776311609" />
+    <state width="1440" height="252" key="GridCell.Tab.0.right" timestamp="1588776311613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588776311613" />
   </component>
 </project>

@@ -6,6 +6,7 @@ public class Practice {
 
         //practicing class created
         //hello tuesday
+        //push denemesi icin 
 
 
     }

@@ -13,6 +13,13 @@ public class Emoji {
 
         //some changes
         System.out.println("sth");
+
+        System.out.println("someting in emoji");
+
+
+
+
+
     }
 
 

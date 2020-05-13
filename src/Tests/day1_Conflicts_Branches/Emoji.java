@@ -9,6 +9,10 @@ public class Emoji {
         //git branch shows howmony branh we have
         //git branch branchname  --> create an new branch
         //git checkout branchname --> switch to related branch
+
+
+        //some changes
+        System.out.println("sth");
     }
 
 

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="kisayol deneme">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Call.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Emoji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Emoji.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/deneme1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/deneme1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="celikyus01" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="GitProject" />
   </component>
   <component name="ProjectId" id="1bXJCCY4L771DA4zL5YhmsiR3Lb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -106,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588772374421</updated>
-      <workItem from="1610135984781" duration="925000" />
+      <workItem from="1610135984781" duration="1259000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1588783298117</created>
@@ -153,49 +159,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="kisayol deneme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="97" key="#Plugins" timestamp="1590864190918">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="320" y="97" key="#Plugins/0.23.1440.811@0.23.1440.811" timestamp="1590864190918" />
-    <state x="22" y="52" key="CommitChangelistDialog2" timestamp="1588784142625">
+    <state x="512" y="330" key="Github.CreatePullRequestDialog" timestamp="1610137156134">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="22" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588784142625" />
-    <state x="162" y="174" width="1240" height="700" key="DiffContextDialog" timestamp="1588777217670">
+    <state x="512" y="330" key="Github.CreatePullRequestDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610137156134" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1610137233693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="162" y="174" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1588777217670" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589296939723">
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610137233693" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1610137090895">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589296939723" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589296939722">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589296939722" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589296939721">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589296939721" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589296939722">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589296939722" />
-    <state x="0" y="190" key="Vcs.Push.Dialog.v2" timestamp="1588783340492">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588783340492" />
-    <state x="178" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588784000930">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="178" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1588784000930" />
-    <state x="114" y="72" key="new project wizard" timestamp="1589297596800">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="114" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1589297596800" />
-    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1590864170918">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1590864170918" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610137090895" />
   </component>
 </project>

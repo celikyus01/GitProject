@@ -6,4 +6,5 @@ public class deneme1 {
     //comment2
     //git commit
     //commit 2
+    //commit 3
 }

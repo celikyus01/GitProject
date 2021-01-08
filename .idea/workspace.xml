@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="kisayol deneme" />
+    <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="kisayol deneme">
+      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/deneme1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/deneme1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Application.Practice">
     <configuration name="LogCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -70,6 +75,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Practice" />
@@ -89,6 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588772374421</updated>
+      <workItem from="1610135984781" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1588783298117</created>
@@ -114,6 +131,9 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -132,6 +152,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="kisayol deneme" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="97" key="#Plugins" timestamp="1590864190918">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="320" y="97" key="#Plugins/0.23.1440.811@0.23.1440.811" timestamp="1590864190918" />
     <state x="22" y="52" key="CommitChangelistDialog2" timestamp="1588784142625">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -168,5 +192,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="114" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1589297596800" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1590864170918">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1590864170918" />
   </component>
 </project>

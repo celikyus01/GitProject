@@ -8,4 +8,7 @@ public class deneme1 {
     //commit 2
     //commit 3
     //commit 4
+
+    //commedfhnt2 -56
+    // github degisiklik
 }

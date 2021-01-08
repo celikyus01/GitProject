@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="kisayol deneme">
-      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Call.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Read.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +136,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="kisayol deneme" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="97" key="#Plugins" timestamp="1590864190918">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="320" y="97" key="#Plugins/0.23.1440.811@0.23.1440.811" timestamp="1590864190918" />
     <state x="22" y="52" key="CommitChangelistDialog2" timestamp="1588784142625">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -170,5 +176,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="114" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1589297596800" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1590864170918">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1590864170918" />
   </component>
 </project>

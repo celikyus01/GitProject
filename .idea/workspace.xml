@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb8f772-b3c2-4b5c-a0d7-985ff3204104" name="Default Changelist" comment="kisayol deneme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Call.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Emoji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/Emoji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/deneme1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/day1_Conflicts_Branches/deneme1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="call" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
@@ -98,6 +102,8 @@
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Login" />
         <item itemvalue="Application.LogCall" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
@@ -163,10 +169,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="512" y="330" key="Github.CreatePullRequestDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610137156134" />
+    <state x="267" y="47" key="MergeDialog" timestamp="1610139095593">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="267" y="47" key="MergeDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610139095593" />
+    <state x="555" y="380" key="MultipleFileMergeDialog" timestamp="1610137687452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="555" y="380" key="MultipleFileMergeDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610137687452" />
     <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1610137233693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610137233693" />
+    <state x="529" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610139028730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="529" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610139028730" />
+    <state x="492" y="172" key="git4idea.branch.GitSmartOperationDialog" timestamp="1610139420963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="492" y="172" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610139420963" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1610137090895">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
